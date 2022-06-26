@@ -10,7 +10,7 @@
 	"build": "rm -rf dist && tsc",
 	"start": "node dist/index.js"
 	},
-  "dependencies": {
+	"dependencies": {
 		"@fastify/autoload": "^5.0.0",
 		"@fastify/sensible": "^5.0.0",
 		"@fastify/swagger": "^7.4.0",
